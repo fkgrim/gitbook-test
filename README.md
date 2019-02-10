@@ -12,8 +12,8 @@ Liste à puces :
 
 Liste numérotées
 
- 1. premier
- 2. qsdqs
+ 1. ~~premier~~
+ 2. *qsdqs*
  3. gfgf
  4. sxs
  5. kiyuj
@@ -22,7 +22,17 @@ Liste numérotées
 
 > citation de quelqu'un
 
+  
+
+      bloc de code
+
+
+|fsdfsdjh| dffsd |
+|--sdfs|-sdfsd-|
+| sd| sdfsd |
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODE5NTA2OF19
+eyJoaXN0b3J5IjpbLTU1Njc0OTE4Ml19
 -->
